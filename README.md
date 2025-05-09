@@ -1,4 +1,4 @@
-# 📦 Clownters-like Data Scraper
+# 📦 Super-Data-Push
 
 Projeto open-source para coleta automatizada de dados públicos online, inspirado no funcionamento do Clownters. Este scraper foi criado para facilitar a extração estruturada de informações para fins educacionais, estatísticos e analíticos.
 🔍 Funcionalidades
